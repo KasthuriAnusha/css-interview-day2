@@ -92,13 +92,13 @@
     height: 100px;
     background: rgb(0, 255, 55);
     position: relative;
-    animation: sandesh 10s infinite;
+    animation: man 10s infinite;
     animation-direction: alternate;
     animation-delay: 2s;
   }
   
   
-  @keyframes sandesh {
+  @keyframes man {
     0% {
       left: 0px;
       top:0;
